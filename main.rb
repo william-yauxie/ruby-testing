@@ -4,6 +4,8 @@ password = gets
 print("Password is: " + password)
 =end
 
+# testing branches
+
 class Password 
 
     def initialize(user_password)
